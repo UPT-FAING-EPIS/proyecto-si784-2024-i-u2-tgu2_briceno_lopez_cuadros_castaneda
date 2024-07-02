@@ -107,7 +107,7 @@ El sistema abarcará:
 
 ## 4. Diagrama de Componentes
 
-![Diagrama de Componentes](path/to/componentes.png)
+![Diagrama de Componentes](path/to/Componentes.png)
 
 ## 5. Análisis de la Aplicación con SonarQube y Snyk
 
